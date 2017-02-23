@@ -5,6 +5,7 @@ If you think a resource/tool should be added, please add a :+1: (`:+1:`) at the 
 ### 小程序组件/类库
 * [wxParse-微信小程序富文本html、md解析组件](https://github.com/icindy/wxParse)
 * [wxSearch-微信小程序优雅的搜索框](https://github.com/icindy/wxSearch)
+* [wemark-微信小程序Markdown渲染库](https://github.com/TooBug/wemark)
 
 ### 小程序样例工程
 #### 游戏类
