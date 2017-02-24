@@ -9,6 +9,9 @@
 * [wxSearch-微信小程序优雅的搜索框](https://github.com/icindy/wxSearch)
 * [wemark-微信小程序Markdown渲染库](https://github.com/TooBug/wemark)
 
+### 小程序样式库
+* [WeUI-微信原生视觉体验一致的基础样式库](https://weui.io/)
+
 ### 小程序开发工具
 * [Wept-微信小程序实时开发工具](https://github.com/chemzqm/wept)
 
