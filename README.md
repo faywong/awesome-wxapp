@@ -68,6 +68,7 @@ http://weappdev.com/t/demo/58
 http://weappdev.com/t/topic/66
 
 ## 发布阶段
-
+* [我们可能开发了一款假的小程序，第十次审批才通过](http://www.wxapp-union.com/portal.php?mod=view&aid=1412)
+* [小程序快速过审实战经验](http://www.wxapp-union.com/portal.php?mod=view&aid=1443)
 
 ## 运营阶段
