@@ -1,11 +1,21 @@
 # awesome-wxapp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-If you think a resource/tool should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
+如果你期望某个工具/资源被加入本列表，请在相关的 issue 后边回复 :+1: (`:+1:`) 或创建一个新的 issue.
 
-### 小程序组件/类库
+---
+
+## 开发阶段
+
+### 小程序组件
 * [wxParse-微信小程序富文本html、md解析组件](https://github.com/icindy/wxParse)
 * [wxSearch-微信小程序优雅的搜索框](https://github.com/icindy/wxSearch)
 * [wemark-微信小程序Markdown渲染库](https://github.com/TooBug/wemark)
+
+### 小程序开发工具
+* [Wept-微信小程序实时开发工具](https://github.com/chemzqm/wept)
+
+### 小程序监控
+* [Fundebug-小程序线上bug监测](https://docs.fundebug.com/notifier/wxjs/)
 
 ### 小程序样例工程
 #### 游戏类
@@ -55,3 +65,8 @@ http://weappdev.com/t/demo/58
 * [开源代码]微信小程序-移动端商城
 
 http://weappdev.com/t/topic/66
+
+## 发布阶段
+
+
+## 运营阶段
