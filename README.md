@@ -10,8 +10,7 @@
 * [wemark-微信小程序Markdown渲染库](https://github.com/TooBug/wemark)
 
 ### 小程序样式库
-* [WeUI-微信原生视觉体验一致的基础样式库 demo 地址](https://weui.io/)
-* [WeUI-微信原生视觉体验一致的基础样式库 项目地址](https://github.com/weui/weui)
+* [WeUI for 小程序-微信原生视觉体验一致的基础样式库](https://github.com/weui/weui-wxss/)
 
 ### 小程序开发工具
 * [Wept-微信小程序实时开发工具](https://github.com/chemzqm/wept)
