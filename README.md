@@ -18,6 +18,10 @@
 ### 小程序监控
 * [Fundebug-小程序线上bug监测](https://docs.fundebug.com/notifier/wxjs/)
 
+### 踩坑经验
+* [跳坑指南《七十一》微信小程序真机预览跟本地不同的问题](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1909)
+* [微信小程序兼容性问题](http://www.jianshu.com/p/90220a55f542)
+
 ### 小程序样例工程
 #### 游戏类
 
